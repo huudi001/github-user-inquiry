@@ -1,0 +1,22 @@
+body {
+  margin-top: 20px;
+}
+
+#fluke {
+  display: none;
+}
+
+#results {
+  display: none;
+}
+
+
+
+.repos-detail {
+  margin-bottom: 15px;
+}
+
+#github-inquiry {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
